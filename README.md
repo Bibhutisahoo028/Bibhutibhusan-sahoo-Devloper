@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I am a passionate learner interested in building w
 - Employee Management System
 
 ## 🎓 Education & Certification
-- B.Tech — Kurapajal Engineering College (2023–2026)
+- B.Tech · Aryan Institute of Engineering and Technology
 - Certification: Smart PGDCA
 
 ## 📫 Connect With Me
